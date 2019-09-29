@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+}
+
+.todo-list {
+  list-style: none;
+}
+.todo-container {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin-bottom: 1em;
+}
+
+.todo-item {
+}
